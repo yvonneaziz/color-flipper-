@@ -13,7 +13,7 @@ A simple and interactive web app that lets users change the background color wit
 
 ## 🛠️ Built With  
 - **HTML5** – Structure  
-- **CSS3** – Styling (buttons & layout)  
+  
 - **JavaScript (Vanilla)** – Logic for color switching and random color generation  
 
 ---
